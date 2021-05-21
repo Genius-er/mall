@@ -1,0 +1,57 @@
+﻿<!DOCTYPE	html PUBLIC	"-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html	xmlns="http://www.w3.org/1999/xhtml">
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"	/>
+ <title>贵美商城</title>
+ <link rel="stylesheet"	type="text/css"	href="css/global.css"	/>
+ <link rel="stylesheet"	type="text/css"	href="css/layout.css"	/>
+<!-- <script type="text/JavaScript" src="js/func.js"></script>-->
+    <script type="application/javascript" src="./js/jquery-1.11.3.js"></script>
+    <script src="js/globalData.js"></script>
+    <script type="application/javascript" src="js/register.js"></script>
+</head>
+<body>
+<div id="container">
+	<iframe id="header" src="header.htm" width="980" height="136" frameborder="0" scrolling="no"></iframe>
+<!--    <form id="form1" method="post" action="register_success.htm">-->
+    <table class="reg" cellspacing="0px" cellpadding="0px">
+      <tbody>
+      <tr>
+        <td class="a_r w15p"><label for="name">用户名：</label>
+        </td>
+				<td class="w500" ><input name="name" id="name" type="text" /><div id="nameInfo" class="checkinfo"></div></td>
+        <td class="protocol" rowspan="11">
+    		  <h4><img src="images/read.gif" alt="alt" />阅读贵美网服务协议 </h4>
+        	<textarea name="textarea" cols="35" rows="15">欢迎阅读服务条款协议，本协议阐述之条款和条件适用于您使用Gmgw.com网站的各种工具和服务。
+
+  本服务协议双方为贵美与贵美网用户，本服务协议具有合同效力。
+  贵美的权利和义务
+    1.贵美有义务在现有技术上维护整个网上交易平台的正常运行，并努力提升和改进技术，使用户网上交易活动的顺利。
+    2.对用户在注册使用贵美网上交易平台中所遇到的与交易或注册有关的问题及反映的情况，贵美应及时作出回复。
+    3.对于在贵美网网上交易平台上的不当行为或其它任何贵美认为应当终止服务的情况，贵美有权随时作出删除相关信息、终止服务提供等处理，而无须征得用户的同意。
+    4.因网上交易平台的特殊性，贵美没有义务对所有用户的注册资料、所有的交易行为以及与交易有关的其他事项进行事先审查。
+				  </textarea>
+    	  </td>
+      </tr>
+
+      <tr>
+        <td class="a_r"><label for="pwd">密码：</label></td>
+        <td ><input name="pwd" id="pwd" type="password" />（至少包含 6 个字符）<div id="pwdInfo" class="checkinfo"></div></td>
+      </tr>
+      <tr>
+        <td class="a_r"><label for="rpwd">再次输入密码：</label></td>
+        <td><input name="rpwd" id="rpwd" type="password" /><div id="rpwdInfo" class="checkinfo"></div></td>
+      </tr>
+      <tr>
+          <td class="a_r"><label for="phone">联系方式：</label></td>
+          <td><input name="phone" id="phone" type="text" /></td>
+      </tr>
+      <tr>
+        <td colspan="2" class="pl150"><input type="image" id="submit" name="submit" class="b0" src="images/submit.gif" /><img src="images/reset.gif" id="reset" class="hand" alt="重置" /></td>
+      </tr>
+      </tbody>
+    </table>
+<!--    </form>-->
+		<iframe id="footer" src="footer.htm" width="980" height="150" frameborder="0" scrolling="no"></iframe>
+	</div><!--container	end-->
+</body>

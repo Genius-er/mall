@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ade034f-28c2-4b0f-bbcb-935e0aeef1b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1km0wBv0tJeXJNUq6IjVYgYwwCu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\大学四年\大四\中软国际实训\项目实战\贵美商城(前端)\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ade034f-28c2-4b0f-bbcb-935e0aeef1b7" name="Default Changelist" comment="" />
+      <created>1606290696160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606290696160</updated>
+      <workItem from="1606290697220" duration="15208000" />
+      <workItem from="1606354462820" duration="15910000" />
+      <workItem from="1606378703018" duration="2389000" />
+      <workItem from="1606381288464" duration="1318000" />
+      <workItem from="1606439885183" duration="7203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="498" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606293467246">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1606293467246" />
+    <state x="2480" y="334" key="UiDebugger" timestamp="1606380860721">
+      <screen x="1920" y="0" width="1440" height="870" />
+    </state>
+    <state x="2480" y="334" key="UiDebugger/0.0.1536.834/1920.0.1440.870@1920.0.1440.870" timestamp="1606380860721" />
+    <state x="43" y="62" width="1199" height="819" key="dock-window-1" timestamp="1606445276318">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="43" y="62" width="1199" height="819" key="dock-window-1/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1606445276318" />
+    <state x="1920" y="0" width="1175" height="819" maximized="true" key="dock-window-2" timestamp="1606354776140">
+      <screen x="1920" y="0" width="1440" height="870" />
+    </state>
+    <state x="1920" y="0" width="1175" height="819" maximized="true" key="dock-window-2/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1606354776140" />
+    <state x="0" y="0" width="600" height="834" key="find.popup" timestamp="1606355033995">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" width="600" height="834" key="find.popup/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1606355033995" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1606291353028">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1440.870@0.0.1536.834" timestamp="1606291353028" />
+  </component>
+</project>
